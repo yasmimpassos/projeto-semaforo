@@ -60,7 +60,7 @@ Cada etapa do semáforo de veículos foi dividida em funções específicas, com
 [Vídeo 2 - Acionamento pelo Botão](assets/videoFuncionamentoBotao.mp4)
 
 ### Tinkercad
-Caso deseje visualizar o circuito em funcionamento no Tinkercad, acesse o seguinte link: [Clique aqui para visualizar o circuito no Tinkercad](https://www.tinkercad.com/things/awYLafBXVhU-fantastic-duup-jaban/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+Caso deseje visualizar o circuito em funcionamento no Tinkercad, acesse o seguinte link: [Clique aqui para visualizar o circuito no Tinkercad](https://www.tinkercad.com/things/awYLafBXVhU-fantastic-duup-jaban/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=KUnvy1rDAbyMVGBZsG80nQpi5nxV-92P2KdUqVJvFGU)
 
 ## **Código do Arduino**
 
