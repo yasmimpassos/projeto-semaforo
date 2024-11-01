@@ -265,7 +265,7 @@ void piscarRGBVermelho() {
     }
 }
 ```
-## **Template Avaliação Pares**
+## **Avaliação em Pares**
 
 ### Avaliador: Matheus Fernandes
 
