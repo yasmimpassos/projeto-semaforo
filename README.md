@@ -50,14 +50,14 @@ Cada etapa do semáforo de veículos foi dividida em funções específicas, com
 
 ### Imagens e Vídeos
 
-![Figura 1 - Visão Geral do Circuito 1]()
-![Figura 2 - Visão Geral do Circuito 2]()
-![Figura 3 - Visão Geral do Circuito 3]()
-![Figura 4 - Cicuito Tinkercad]()
+![Figura 1 - Visão Geral do Circuito 1](assets/circuito1.jpg)
+![Figura 2 - Visão Geral do Circuito 2](assets/circuito2.jpg)
+![Figura 3 - Visão Geral do Circuito 3](assets/circuito3.jpg)
+![Figura 4 - Cicuito Tinkercad](assets/circuitoTinkercad.png)
 
-[Vídeo 1 - Demonstração do Funcionamento]()
+[Vídeo 1 - Demonstração do Funcionamento](assets/videoFuncionamentoBasico.mp4)
 
-[Vídeo 2 - Acionamento pelo Botão]()
+[Vídeo 2 - Acionamento pelo Botão](assets/videoFuncionamentoBotao.mp4)
 
 ### Tinkercad
 Caso deseje visualizar o circuito em funcionamento no Tinkercad, acesse o seguinte link: [Clique aqui para visualizar o circuito no Tinkercad](https://www.tinkercad.com/things/awYLafBXVhU-fantastic-duup-jaban/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
@@ -271,18 +271,17 @@ void piscarRGBVermelho() {
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |                           |
-| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |                           |
-| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |                           |
-| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |                           |
-|  |                                                             |  | |**Pontuação Total**|
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | 3              |                             |                         |                  A montagem foi muito bem executada, o protótipo tem uma boa organização dos fios e componentes eletrônicos         |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | 3              |                       |                         |            A temporização foi feita da forma correta               |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3              |                          |                         |            O código está bem completo e foi além em sua execução               |
+| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | 1              |                          |                         |              Adicionou um botão para o pedestre             |
+|  |                                                             |  | |*Pontuação Total: 10*|
 
-### Avaliador: Davi Nascimento
-
+### Avaliador: Davi Nascimento de Jesus
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |                           |
-| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |                           |
-| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |                           |
-| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |                           |
-|  |                                                             |  | |**Pontuação Total**|
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |  "Nota: 3. O projeto está excelente. A montagem física foi bem ajustada, considerando o posicionamento dos fios e a disposição dos componentes elétricos na protoboard. A ordem do semafóro está adequada conforme as instruções e os resistores estão colocados nos espaços corretos. "|
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        | "Nota: 3. No semáforo, o projeto segue de forma correta a temporização das cores, seguindo a sequência 6 segundos no vermelho, 2 segundos no amarelo, 4 segundos no verde, 2 segundos no amarelo. " |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        | "Nota:3. Além da implementação correta das fases do semáforo, um ponto de destaque do projeto da Yasmim é a modularização em funções específicas. Um processo que permite a explicabilidade e a legibilidade do código da melhor maneira. Ela aproveitou esse recurso bem." |
+| Extra: Implementou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        | "Nota: 1. O projeto conta com um botão que simula o disponibilizado para pedestres solicitarem a travessia. Além disso, apesar de ser um led que não contaria como um outro elemento, ela ainda acrescenta com o RGB um semáforo para pedestres." |
+|  |                                                             |  | |**Pontuação Total:** 10|
